@@ -1,6 +1,7 @@
 ```markdown
     # Git Assignment - <JzfL>
     ```
+<<<< assignment
 
     > a. What is an _issue_?
     #Issues are simple to create and flexible to suit a variety of scenarios. You can use issues to track work, give or receive feedback, collaborate on ideas or tasks, and efficiently communicate with others.
@@ -41,3 +42,5 @@
 
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
     # No we should not, version control and backup in case a change is fatal
+=======
+>>>> main
